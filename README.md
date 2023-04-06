@@ -1,5 +1,5 @@
 # skysc-website
-![full-page](https://github.com/dreamDev525/skyscrper-website/blob/main/src/assets/blob/full.png)
+![full-page](https://github.com/billiedox/skyscraper-website/tree/main/src/assets/blob/full.png)
 ## Project setup
 ```
 yarn install
